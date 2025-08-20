@@ -1,1 +1,5 @@
 testing123
+
+// saya sebagai Taufik ingin membuat feature gambar (berarti saya bikin branch feature/gambar)
+- halo semuanya, ini adalah feature A, yang ingin saya buat..
+- tolong di merge donggg... 
